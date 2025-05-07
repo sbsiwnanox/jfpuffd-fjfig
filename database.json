@@ -1,4 +1,4 @@
 {
-  "users": [ { "nomor": "123", "name": "John" }, ... ]
+  "users": [ { "nomor": "123", "name": "John" } ]
 }
 
